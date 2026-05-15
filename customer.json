@@ -1,0 +1,19 @@
+{
+  "business_name": "UFIT BOX",
+  "city": "Murska Sobota",
+  "address": "Bakovska ulica 2, 9000 Murska Sobota",
+  "business_type": "podjetje",
+  "contact_phone": "041 991 068",
+  "contact_email": "ufit.coach@gmail.com",
+  "contact_website": "",
+  "social_links": {
+    "facebook": "https://www.facebook.com/UFit.osebnotrenerstvo/"
+  },
+  "slug": "ufit-box",
+  "subdomain": "ufit-box.pregosystems.com",
+  "cloudflare_project": "ufit-box",
+  "source_path": "/home/clawdbot/sources/ufit-box",
+  "current_stage": "approved",
+  "last_updated_at": "2026-05-15T11:36Z",
+  "created_at": "2026-05-15T02:57Z"
+}
